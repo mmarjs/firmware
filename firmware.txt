@@ -1,0 +1,22 @@
+USB 3.0 firmware
+https://www.passmark.com/products/usb3loopback/download.php
+https://pcsupport.lenovo.com/by/ru/downloads/ds002209
+
+TF card firmware
+https://ru.yamaha.com/ru/support/updates/66648_en.html
+https://europe.yamaha.com/en/support/updates/67412_en.html
+https://m.bitmain.com/support/download
+
+SSD firmware
+https://intel-ssd-firmware-update-tool.en.softonic.com/
+https://www.touslesdrivers.com/index.php?v_page=23&v_code=55790&v_langue=en
+https://www.intel.com/content/www/us/en/download/17903/intel-ssd-firmware-update-tool.html
+https://semiconductor.samsung.com/consumer-storage/support/tools/
+https://drivers.top4download.com/free-ssd-firmware/0-r.html
+
+Hard firmware
+https://www.canvio.jp/en/support/download/hdd/ot_ihdd/fw/en.htm
+https://support.lenovo.com/pa/en/downloads/ds112712
+https://www.dell.com/support/home/en-uk/drivers/driversdetails?driverid=k1n86
+https://hitachi-lg.com/en/support/firmware_download/?ckattempt=1
+https://files.hddguru.com/download/Firmware%20updates/
